@@ -1,1 +1,9 @@
-# me
+# daguy666
+
+I am a senior security engineer passionate in the following areas of security:
+
+- Detection and Response 
+- Incident Response
+- Security Engineering
+- Network security and forensics
+
